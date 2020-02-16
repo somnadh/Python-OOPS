@@ -5,7 +5,7 @@ Class: Collection of objects is called class.class is nothing but an BluePrint o
 
 Inheritance: When one object acquires all the properties and behaviors of a parent object, it is known as inheritance. It provides code reusability. It is used to achieve runtime polymorphism. Example: child can acquire properties of their parents
 
-Polymorphism If one task is performed in different ways, it is known as polymorphism. Example:One person can behave in different ways based on situations.
+Polymorphism If one task is performed in different ways, it is known as polymorphism. Example:One person can behave in different ways based on situations.method overloading is not supported in python but we can achive it
 
 Abstraction: Hiding internal details and showing functionality is known as abstraction. For example phone call, we don't know the internal processing.In Java, we use abstract class and interface to achieve abstraction.
 
